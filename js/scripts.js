@@ -7,8 +7,8 @@ console.log("Wynik dodatni");
 }
 else if (value < 0) {
 //kod do wykonania, jeśli warunek2 okaże się prawdziwy
-}
 console.log("Wynik ujemny");
+}
 else {
 //kod do wykonania, jeśli żaden z poprzednich warunków nie okaże się prawdziwy
 console.log("Wynik równy zero");
